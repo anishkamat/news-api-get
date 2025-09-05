@@ -196,18 +196,3 @@ NEWS_API_KEY=your_api_key_here
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## API Reference
-
-- [NewsAPI Documentation](https://newsapi.org/docs/endpoints/everything)
-- [Get API Key](https://newsapi.org/register)
-- [API Error Codes](https://newsapi.org/docs/errors)
-
-## Author
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/yourusername/improved-news-api-script](https://github.com/yourusername/improved-news-api-script)
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
